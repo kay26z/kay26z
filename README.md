@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kay26z.
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning phyton programming.
-- 💞️ I’m looking to collaborate on projects in this space to gsin mastery on the subject matter.
+- 💞️ I’m looking to collaborate on projects in this space to gain mastery on the subject matter.
 - 📫 How to reach me kayode Awonugba on LinkedIn.
 
 <!---
